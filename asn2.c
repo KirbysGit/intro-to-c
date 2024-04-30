@@ -1,5 +1,5 @@
-
-// CODE SHOULD DISPLAY CORRECT OUTPUT HOWEVER COULD NOT FIGURE OUT WHAT FREE FUNCTIONS WERE MISSING FOR CODE
+// CS1 - ASN2 - Queues.
+// Implementing Queues w/ Dynammic Memory.
 
 #include<stdio.h>
 #include<stdlib.h>

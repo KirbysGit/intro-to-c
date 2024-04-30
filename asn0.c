@@ -1,4 +1,5 @@
-// CS1 - Strings.
+// CS1 - ASN0 - Sign of Trouble.
+// Implementing Strings.
 
 #include <stdio.h> // Declares libraries
 #include <string.h>

@@ -1,3 +1,5 @@
+// CS1 - Strings.
+
 #include <stdio.h> // Declares libraries
 #include <string.h>
 #define SIZE 100001 // Declares value for SIZE

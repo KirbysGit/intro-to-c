@@ -1,3 +1,7 @@
+// CS1 - ASN1 - Theater Reservation.
+// Dynamic Memory Application.
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

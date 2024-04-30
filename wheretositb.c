@@ -1,3 +1,4 @@
+// CS1 - ASN3 - Where to Sit (Combinations)
 #include<stdio.h>
 #include<string.h>
 

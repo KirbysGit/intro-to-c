@@ -1,3 +1,6 @@
+// CS1 - ASN5 - Binary Trees.
+// Implementing a Loyalty Point Program within a Binary Tree.
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
